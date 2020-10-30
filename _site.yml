@@ -8,8 +8,8 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
-    - text: "Resumé"
-      herf: Resumé.html
+    - text: "resumé"
+      herf: resumé.html
   right:
     - icon: fa-github
       herf: https://github.com/chrislu1998/LAB-1-1-1

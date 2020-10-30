@@ -8,3 +8,5 @@ output: html_document
 </center>
 
 [My githup page](https://github.com/chrislu1998/) I am a student at UCLA, learning R programming.
+
+![This is my son!](image/per-xijinping-01-810459054.jpg)
