@@ -1,0 +1,12 @@
+---
+title: "geog176A project"
+output: html_document
+---
+
+It is Fall 2020, I am learning R programming in geog176A.
+
+## [Building a project website] ()
+
+- In this assignment we built a static users site with Github Pages 
+- Includes a github repo for access to all the code.
+- Look at how high quality my work is!
